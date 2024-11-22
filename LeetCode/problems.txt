@@ -1,0 +1,45 @@
+1.Trapping Rain Water (DONE but we can redo it again later)
+well there is a condition for water holding which i assume would be that there are blocks
+on the left and the right of it which should also be related to the height
+
+https://leetcode.com/problems/trapping-rain-water/description/
+
+
+2.Robot collisions
+
+an array of structs perhaps which include a health variable and a direction variable
+give R and L,boolean values and create an AND gate to process it perhaps
+
+if they collide,the smaller health robot will get removed (hence why i believe a linked list is better)
+aka the robot in the array of robots (aka structs) gets removed
+
+
+https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13
+
+3. Remove node
+
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+
+4. Plus One
+
+https://leetcode.com/problems/plus-one/description/
+
+5. ways to climb stairs
+
+https://leetcode.com/problems/climbing-stairs/description/
+
+6.Container With Most Water (DONE)
+
+https://leetcode.com/problems/container-with-most-water/description/
+
+7. Hashing related (Unnecessary)
+https://leetcode.com/tag/hash-function/
+
+8.Djikstra related - future
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26
+
+9. Heaters (doesnt even make sense)
+https://leetcode.com/problems/heaters/description/
+
+10.Sort colors (fucking easy)
+https://leetcode.com/problems/sort-colors/description/
